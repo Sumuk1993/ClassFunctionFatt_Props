@@ -1,5 +1,4 @@
 
-import './App.css';
 import ClassProps from './components/ClassProps';
 
 function App() {
